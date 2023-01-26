@@ -7,3 +7,7 @@ We are a group of students, researchers, and educators at the University of Brit
 Our organization is open to anyone interested in this field, regardless of their level of expertise or background. We host events, workshops, and hackathons to facilitate collaboration and learning, and we encourage members to share their projects and ideas with the community.
 
 Whether you are a beginner looking to learn more about machine learning and art, or an experienced practitioner looking to share your knowledge and collaborate with others, we invite you to join us on this journey. We look forward to exploring the limitless possibilities of machine learning and art together!
+
+<p align = "center"> 
+  <img src = "loadingit.gif">
+</p>
