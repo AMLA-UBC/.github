@@ -1,4 +1,4 @@
-<h1 align = "center"> AMLA </h1>
+# AMLA
 
 Greetings!
 
