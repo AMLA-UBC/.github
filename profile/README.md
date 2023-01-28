@@ -1,12 +1,12 @@
 # AMLA
 
-Welcome to the Applied Machine Learning & Art @ UBC Github!
+Greetings!
 
-We are a group of students, researchers, and educators at the University of British Columbia (UBC) who are passionate about the intersection of machine learning and art. Our goal is to explore and create innovative projects that showcase the potential of machine learning in the arts, as well as to educate and inspire others to do the same.
+We are a motley crew of students, researchers, and educators from the University of British Columbia, united in our quest to delve into the depths of machine learning and art. Our passion for this unique intersection is matched only by our eagerness to share it with others.
 
-Our organization is open to anyone interested in this field, regardless of their level of expertise or background. We host events, workshops, and hackathons to facilitate collaboration and learning, and we encourage members to share their projects and ideas with the community.
+Our doors are open to all who share our interest in this field, regardless of your level of expertise or background. We host a variety of events, workshops, and hackathons to foster collaboration and learning, and we relish the opportunity to hear from our members about their projects and ideas.
 
-Whether you are a beginner looking to learn more about machine learning and art, or an experienced practitioner looking to share your knowledge and collaborate with others, we invite you to join us on this journey. We look forward to exploring the limitless possibilities of machine learning and art together!
+Whether you're a curious novice or a seasoned veteran, we would be delighted for you to join us on our journey. Together, let us explore the boundless potential of machine learning and art!
 
 <p align = "center"> 
   <img src = "loadingit.gif">
